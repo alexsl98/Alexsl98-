@@ -13,3 +13,4 @@
 
 ### 📫 Contáctame  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alejandro-s%C3%A1nchez-lambert-b57333319/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexslambert7@gmail.com)  
