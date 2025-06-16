@@ -11,4 +11,4 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)  
 
 ### 📫 Contáctame  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)]([tu-enlace](https://www.linkedin.com/in/alejandro-s%C3%A1nchez-lambert-b57333319/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alejandro-s%C3%A1nchez-lambert-b57333319/) 
