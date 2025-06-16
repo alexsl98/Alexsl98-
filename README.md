@@ -1,4 +1,6 @@
 👋 Hola, soy Alex
+<img src="https://i.imgur.com/weNbhGZ.png">
+
 
 **Desarrollador Flutter** con experiencia en:  
 - 📱 Desarrollo multiplataforma (iOS/Android/Web).  
