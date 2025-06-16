@@ -1,4 +1,5 @@
-👋 Hola, soy [Tu Nombre]  
+👋 Hola, soy Alex
+
 **Desarrollador Flutter** con experiencia en:  
 - 📱 Desarrollo multiplataforma (iOS/Android/Web).  
 - 🔥 Firebase (Auth, Firestore, Cloud Functions).  
