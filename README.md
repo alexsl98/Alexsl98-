@@ -2,7 +2,7 @@
 
 ![Imagen de perfil](https://th.bing.com/th/id/OIP.rjDKlTXDq98arKIBP8dxUAHaHa?rs=1&pid=ImgDetMain&cb=idpwebp1&o=7&rm=3)
 
-
+### 🔍 Sobre mí
 **Desarrollador Flutter** con experiencia en:  
 - 📱 Desarrollo multiplataforma (iOS/Android/Web).  
 - 🔥 Firebase (Auth, Firestore, Cloud Functions).  
