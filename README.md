@@ -19,7 +19,7 @@
 | Proyecto | Descripción | Tecnologías | Demo |
 |----------|-------------|-------------|------|
 | **[Nombre App](https://github.com/tu-usuario/repositorio)** | App de [breve descripción]. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase) | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play)](enlace) |
-| **[Facilito](https://github.com/tailorw-sas/pointsales-mobile)** | App E-commerce , App de comercio electrico para la compra de productos en linea. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter) ![API](https://img.shields.io/badge/API_REST-FF6D00?style=flat) | [![Demo](https://img.shields.io/badge/Ver_Demo-2CA5E0?style=flat&logo=web)](enlace) |
+| **[Facilito](https://github.com/tailorw-sas/pointsales-mobile)** | App E-commerce , App de comercio electrico para la compra de productos en linea. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter) ![API](https://img.shields.io/badge/API_REST-FF6D00?style=flat) | |
 |**[Civix](https://github.com/alexsl98/civix_project)** | App de Gobierno Electrónico. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter) ![API](https://img.shields.io/badge/API_REST-FF6D00?style=flat) | [![Apklis](https://img.shields.io/badge/Descargar_APK-6F0305?style=flat&logo=android&logoColor=white)](https://apklis.cu/application/cu.uci.cegel.lexcuba.civix) |
 
 ### 📫 Contáctame  
