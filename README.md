@@ -1,5 +1,5 @@
 👋 Hola, soy Alex
-<img src="https://i.imgur.com/weNbhGZ.png](https://th.bing.com/th/id/OIP.rjDKlTXDq98arKIBP8dxUAHaHa?rs=1&pid=ImgDetMain&cb=idpwebp1&o=7&rm=3)">
+![Imagen de perfil](https://th.bing.com/th/id/OIP.rjDKlTXDq98arKIBP8dxUAHaHa?rs=1&pid=ImgDetMain&cb=idpwebp1&o=7&rm=3)
 
 
 **Desarrollador Flutter** con experiencia en:  
