@@ -1,26 +1,27 @@
-# Hola, soy Alejandro Sánchez Lambert 👋
+# 💫 About Me:
+Desarrollador Flutter con experiencia en:<br><br>📱 Desarrollo multiplataforma (iOS/Android/Web).<br>🔥 Firebase (Auth, Firestore, Cloud Functions).<br>🌐 PostGreSQL <br>🌐 Consumo de APIs REST y GraphQL.<br>🎨 Diseño responsive con Material Design y Cupertino.
 
-![Imagen de perfil](https://th.bing.com/th/id/OIP.rjDKlTXDq98arKIBP8dxUAHaHa?rs=1&pid=ImgDetMain&cb=idpwebp1&o=7&rm=3)
 
-### 🔍 Sobre mí
-**Desarrollador Flutter** con experiencia en:  
-- 📱 Desarrollo multiplataforma (iOS/Android/Web).  
-- 🔥 Firebase (Auth, Firestore, Cloud Functions).  
-- 🌐 Consumo de APIs REST y GraphQL.  
-- 🎨 Diseño responsive con Material Design y Cupertino.  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alejandro-s%C3%A1nchez-lambert-522b32382/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexslambert7@gmail.com) 
 
-### 🛠️ Tecnologías
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)](https://flutter.dev)  
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)](https://dart.dev)  
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)](https://firebase.google.com)   
+# 💻 Tech Stack:
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alexsl98&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=alexsl98&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsl98&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 Proyectos Destacados
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alexsl98&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-| Proyecto | Descripción | Tecnologías | Demo |
-|----------|-------------|-------------|------|
-| **[Facilito](https://github.com/tailorw-sas/pointsales-mobile)** | App E-commerce , App de comercio electrico para la compra de productos en linea. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter) ![API](https://img.shields.io/badge/API_REST-FF6D00?style=flat) | |
-|**[Civix](https://github.com/alexsl98/civix_project)** | App de Gobierno Electrónico. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter) ![API](https://img.shields.io/badge/API_REST-FF6D00?style=flat) | [![Apklis](https://img.shields.io/badge/Descargar_APK-6F0305?style=flat&logo=android&logoColor=white)](https://apklis.cu/application/cu.uci.cegel.lexcuba.civix) |
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 📫 Contáctame  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alejandro-s%C3%A1nchez-lambert-b57333319/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexslambert7@gmail.com)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alexsl98&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=alexsl98&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
