@@ -2,7 +2,13 @@
   <h2>👋 Hola, soy Alejandro Sánchez Lambert</h2>
   <p>Desarrollador Flutter | Backend con FastAPI | PostgreSQL | Firebase</p>
   
-  <img src="https://visitcount.itsvg.in/api?id=alexsl98&icon=0&color=0" alt="Visit count" />
+ <div align="center">
+  <p>👁️ Visitor Count</p>
+  <a href="https://visitcount.itsvg.in/api?id=alexsl98&icon=0&color=0">
+    <img src="https://visitcount.itsvg.in/api?id=alexsl98&icon=0&color=0" alt="Visit count" onerror="this.onerror=null;this.src='https://profile-counter.glitch.me/Alexsl98/count.svg';"/>
+  </a>
+</div>
+
 </div>
 
 ---
