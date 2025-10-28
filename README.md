@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola, soy Alejandro Sánchez Lambert!
 
-💙 **Desarrollador Flutter** con experiencia en aplicaciones multiplataforma, backend con **FastAPI** y bases de datos **PostgreSQL / Firebase**.
+💙 **Desarrollador Flutter** especializado en crear apps multiplataforma con **arquitectura limpia**, integración de **Firebase** y **APIs REST/GraphQL**.
 
 <img src="https://visitcount.itsvg.in/api?id=alexsl98&icon=0&color=0" alt="Visit count" />
 
@@ -11,15 +11,16 @@
 ---
 
 ## 💫 Sobre mí
-Soy un desarrollador apasionado por la creación de experiencias móviles modernas y funcionales.  
-Me gusta diseñar interfaces atractivas, optimizar código y conectar la lógica de negocio con interfaces fluidas.
+Soy un desarrollador apasionado por el diseño y desarrollo de aplicaciones móviles con **Flutter**.  
+Me gusta combinar **UI/UX moderna** con un código escalable y mantenible.  
+Siempre busco optimizar la experiencia del usuario y mejorar la eficiencia del producto.
 
 🧩 Experiencia en:
-- 📱 Desarrollo multiplataforma con **Flutter (iOS / Android / Web)**  
-- 🔥 **Firebase**: Authentication, Firestore, Cloud Functions  
-- 🐘 **PostgreSQL** y **SQLite**  
-- 🌐 Integración de **APIs REST y GraphQL**  
-- 🎨 Diseño **responsive** con Material Design y Cupertino  
+- 📱 Desarrollo multiplataforma (iOS / Android / Web)  
+- 🔥 **Firebase** (Auth, Firestore, Cloud Functions)  
+- 🐘 **PostgreSQL**, **SQLite** y **APIs REST**  
+- 💡 **Arquitectura por capas** y patrones como Provider / Riverpod  
+- 🎨 Diseño responsive con **Material Design** y **Cupertino**
 
 ---
 
@@ -46,12 +47,12 @@ Me gusta diseñar interfaces atractivas, optimizar código y conectar la lógica
 
 ---
 
-## 🔝 Repositorios Destacados
+## 🚀 Proyectos Destacados
 <div align="center">
 
-[![PoolService](https://github-readme-stats.vercel.app/api/pin/?username=alexsl98&repo=poolservice&theme=tokyonight)](https://github.com/alexsl98/poolservice)
-[![App Finanzi](https://github-readme-stats.vercel.app/api/pin/?username=alexsl98&repo=app_finanzi&theme=tokyonight)](https://github.com/alexsl98/app_finanzi)
-[![Astro API](https://github-readme-stats.vercel.app/api/pin/?username=alexsl98&repo=astro_api&theme=tokyonight)](https://github.com/alexsl98/astro_api)
+[![Civix Project](https://github-readme-stats.vercel.app/api/pin/?username=alexsl98&repo=civix_project&theme=tokyonight)](https://github.com/alexsl98/civix_project)
+[![Finanzi App](https://github-readme-stats.vercel.app/api/pin/?username=alexsl98&repo=Finanzi_app&theme=tokyonight)](https://github.com/alexsl98/Finanzi_app)
+[![Facilito (TailorW)](https://github-readme-stats.vercel.app/api/pin/?username=tailorw-sas&repo=pointsales-mobile&theme=tokyonight)](https://github.com/tailorw-sas/pointsales-mobile)
 
 </div>
 
