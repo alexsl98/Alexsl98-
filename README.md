@@ -50,7 +50,7 @@ Siempre busco optimizar la experiencia del usuario y mejorar la eficiencia del p
 ## 🚀 Proyectos Destacados
 <div align="center">
 
-[![Civix Project](https://github-readme-stats.vercel.app/api/pin/?username=Alexsl98&repo=civix_project&theme=tokyonight)](https://github.com/alexsl98/civix_project)
+[![Civix Project](https://github-readme-stats.vercel.app/api/pin/?username=alexsl98&repo=civix_project&theme=tokyonight)](https://github.com/alexsl98/civix_project)
 [![Finanzi App](https://github-readme-stats.vercel.app/api/pin/?username=alexsl98&repo=Finanzi_app&theme=tokyonight)](https://github.com/alexsl98/Finanzi_app)
 [![Facilito (TailorW)](https://github-readme-stats.vercel.app/api/pin/?username=tailorw-sas&repo=pointsales-mobile&theme=tokyonight)](https://github.com/tailorw-sas/pointsales-mobile)
 
